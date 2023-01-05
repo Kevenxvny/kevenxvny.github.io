@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Radio.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confirm0000" x="1196" y="1077" width="598" height="365" frameX="0" frameY="-199" frameWidth="598" frameHeight="365"/>
+	<SubTexture name="confirm0001" x="1196" y="1077" width="598" height="365" frameX="0" frameY="-199" frameWidth="598" frameHeight="365"/>
+	<SubTexture name="confirm0002" x="0" y="0" width="598" height="365" frameX="0" frameY="-199" frameWidth="598" frameHeight="564"/>
+	<SubTexture name="confirm0003" x="0" y="0" width="598" height="365" frameX="0" frameY="-199" frameWidth="598" frameHeight="564"/>
+	<SubTexture name="confirm0004" x="598" y="0" width="598" height="389" frameX="0" frameY="-175" frameWidth="598" frameHeight="564"/>
+	<SubTexture name="confirm0005" x="598" y="0" width="598" height="389" frameX="0" frameY="-175" frameWidth="598" frameHeight="564"/>
+	<SubTexture name="confirm0006" x="1196" y="0" width="598" height="513" frameX="0" frameY="-51" frameWidth="598" frameHeight="564"/>
+	<SubTexture name="confirm0007" x="1196" y="0" width="598" height="513" frameX="0" frameY="-51" frameWidth="598" frameHeight="564"/>
+	<SubTexture name="confirm0008" x="0" y="513" width="598" height="557" frameX="0" frameY="-7" frameWidth="598" frameHeight="564"/>
+	<SubTexture name="confirm0009" x="0" y="513" width="598" height="557" frameX="0" frameY="-7" frameWidth="598" frameHeight="564"/>
+	<SubTexture name="confirm0010" x="598" y="513" width="598" height="563" frameX="0" frameY="-1" frameWidth="598" frameHeight="564"/>
+	<SubTexture name="confirm0011" x="598" y="513" width="598" height="563" frameX="0" frameY="-1" frameWidth="598" frameHeight="564"/>
+	<SubTexture name="confirm0012" x="1196" y="513" width="598" height="564"/>
+	<SubTexture name="confirm0013" x="1196" y="513" width="598" height="564"/>
+	<SubTexture name="confirm0014" x="0" y="1077" width="598" height="564"/>
+	<SubTexture name="confirm0015" x="0" y="1077" width="598" height="564"/>
+	<SubTexture name="confirm0016" x="598" y="1077" width="598" height="564"/>
+	<SubTexture name="confirm0017" x="598" y="1077" width="598" height="564"/>
+	<SubTexture name="confirm0018" x="598" y="1077" width="598" height="564"/>
+	<SubTexture name="confirm0019" x="598" y="1077" width="598" height="564"/>
+	<SubTexture name="confirm0020" x="598" y="1077" width="598" height="564"/>
+	<SubTexture name="confirm0021" x="598" y="1077" width="598" height="564"/>
+	<SubTexture name="confirm0022" x="598" y="1077" width="598" height="564"/>
+	<SubTexture name="confirm0023" x="598" y="1077" width="598" height="564"/>
+	<SubTexture name="confirm0024" x="598" y="1077" width="598" height="564"/>
+	<SubTexture name="idle0000" x="1196" y="1077" width="598" height="365" frameX="0" frameY="-199" frameWidth="598" frameHeight="365"/>
+</TextureAtlas>
