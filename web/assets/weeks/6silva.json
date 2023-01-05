@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"carnitas",
+			"silva",
+			[
+				60,
+				60,
+				40
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "silva",
+	"difficulties": "Normal, Hard",
+	"weekCharacters": [
+		"",
+		"radio",
+		""
+	],
+	"storyName": "Carnitas",
+	"weekName": "silva",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "5stranded",
+	"startUnlocked": false
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "Enough",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "enough",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "3argument",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"liamradio",
+		""
+	],
+	"songs": [
+		[
+			"enough",
+			"abstracty",
+			[
+				195,
+				133,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "enough",
+	"hiddenUntilUnlocked": false
+}

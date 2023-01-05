@@ -1,0 +1,32 @@
+{
+	"storyName": "Stranded",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stranded",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"stranded-liam",
+			"liam",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"liamradio",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "stranded"
+}

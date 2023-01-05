@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"night-sky",
+			"nightsky",
+			[
+				80,
+				80,
+				100
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "nightsky",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"radio",
+		""
+	],
+	"storyName": "nightsky",
+	"weekName": "nightsky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

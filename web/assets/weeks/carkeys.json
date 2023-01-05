@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"carkeys",
+			"carkeys",
+			[
+				175,
+				215,
+				175
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "carkeys",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"radio",
+		""
+	],
+	"storyName": "carkeys",
+	"weekName": "carkeys",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

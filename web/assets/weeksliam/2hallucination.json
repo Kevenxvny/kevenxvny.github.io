@@ -1,0 +1,32 @@
+{
+	"storyName": "8932.145",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "hallucination",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "1stranded",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"liamradio",
+		""
+	],
+	"songs": [
+		[
+			"hallucination",
+			"abstracty",
+			[
+				195,
+				133,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "stone",
+	"hiddenUntilUnlocked": false
+}

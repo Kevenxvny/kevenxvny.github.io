@@ -1,0 +1,32 @@
+{
+	"storyName": "Instruct",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "cohost",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"radioau",
+		""
+	],
+	"songs": [
+		[
+			"instruct",
+			"abstracty",
+			[
+				195,
+				133,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "cohost",
+	"hiddenUntilUnlocked": false
+}

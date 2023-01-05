@@ -1,0 +1,32 @@
+{
+	"storyName": "Argument",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "argument",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "2hallucination",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"liamradio",
+		""
+	],
+	"songs": [
+		[
+			"argument",
+			"abstracty",
+			[
+				195,
+				133,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "argument",
+	"hiddenUntilUnlocked": false
+}

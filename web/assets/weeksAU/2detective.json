@@ -1,0 +1,32 @@
+{
+	"storyName": "Frequency",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "detective",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"radioau",
+		""
+	],
+	"songs": [
+		[
+			"frequency",
+			"abstracty",
+			[
+				195,
+				133,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "detective",
+	"hiddenUntilUnlocked": false
+}

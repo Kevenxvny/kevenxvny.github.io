@@ -1,0 +1,32 @@
+{
+	"storyName": "dehumanized",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "dehumanized",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"radioau",
+		""
+	],
+	"songs": [
+		[
+			"dehumanized",
+			"abstracty",
+			[
+				195,
+				133,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "dehumanized",
+	"hiddenUntilUnlocked": false
+}
