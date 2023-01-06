@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"carkeys",
+			"carkeys",
+			[
+				106,
+				255,
+				113
+			]
+		],
+		[
+			"ahh",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+				[
+			"enough",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "golden one carkeys",
+	"hiddenUntilUnlocked": false
+}

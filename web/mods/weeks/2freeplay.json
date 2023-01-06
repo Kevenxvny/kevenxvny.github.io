@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"carkeys",
+			"carkeys",
+			[
+				106,
+				255,
+				113
+			]
+		],
+		[
+			"scenty",
+			"amelia",
+			[
+				126,
+				253,
+				253
+			]
+		],
+		[
+			"carnitas",
+			"bradley",
+			[
+				126,
+				253,
+				253
+			]
+		],
+		[
+			"night-sky",
+			"bryce",
+			[
+				46,
+				53,
+				133
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "golden one freeplay"
+}
