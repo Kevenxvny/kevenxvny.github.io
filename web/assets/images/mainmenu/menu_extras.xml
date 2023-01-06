@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_extras.png">
+<SubTexture name="extras white0000" x="0" y="0" width="168" height="44" frameX="-19" frameY="-17" frameWidth="250" frameHeight="70" />
+<SubTexture name="extras basic0000" x="0" y="44" width="163" height="33" frameX="-19" frameY="-17" frameWidth="250" frameHeight="70" />
+</TextureAtlas>
